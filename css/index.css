@@ -1,0 +1,28 @@
+*{
+  margin: 0px ;
+  padding: 0px
+}
+
+body{
+  /* background: linear-gradient(to bottom left, white 50%, rgb(71, 71, 252) 50%);
+  background-repeat: no-repeat; */
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.botones {
+    text-decoration: none;
+ 
+}
+.session {
+    margin-top: 1%;
+    margin-left: 80%;
+}
+
+.welcome {
+    margin-top: 15%;
+ margin-left: 20%;
+    /* align-items: center; */
+    display: block;
+  
+
+}
